@@ -1,4 +1,4 @@
-       # Albums
+# Albums
 ----- React Native -----
 
 Application from tutorial video from udemy - List of albums 
